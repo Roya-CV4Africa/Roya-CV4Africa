@@ -16,13 +16,13 @@ We inspire from other AI grassroots such as [Masakhane](https://github.com/masak
 * Ownership - We believe that Africans should be in charge of owning, driving and participating in the Computer Vision research process, rather than as observers or data providers.
 * Openness - We believe in sharing our ideas and progress openly, especially on the African continent, for Africans. We’re against research that takes African contributions or data and puts them behind a paywall that is infeasible for Africans to access.
 * Multidisciplinarity - We truly believe that participation from all fields and experience and that multidisciplinarity leads to a more robust and more inclusive society
-* Everyone has valuable knowledge - We believe that each person’s individual experiences have value and each person is worth listening too and has something to contribute.
+* Everyone has valuable knowledge - We believe that each person’s individual experiences have value and each person is worth listening to and has something to contribute.
 * Kindness - We believe that being considerate, friendly and generous within our community is the best way to support it and encourage more inclusivity
 * Responsibility - We believe that each person in the technology process has an ethical responsibility to what they produce in the world. For this reason, we actively wreckon with the ethical impacts of our work
 * Data sovereignty - We believe Africans should be able to decide what data represents our communities globally, retain ultimate ownership of that data, and know how it is used
 * Reproducibility - We believe in reproducible research. As a result, we publish our code and data from our research so that others can reproduce and build upon it.
 * Sustainability - We believe that sustainability is necessary for societal change - that small daily efforts, over a long time are what truly change the world. To that, we aim for sustainability of our work, by being fully integrated with technological stakeholders to ensure the community continues to thrive into the future
-* Love for others what you would love for your own self. It is important to try to put ourselves in the other person shoes to understand the impact of what we do and to aim for positive impact whenever collabrating or discussing with other members. - حب لاخيك ما تحب لنفسك
+* Love for others what you would love for your own self. We believe in leaving a positive impact when collaborating and dealing amongst ourselves and with others. - حب لاخيك ما تحب لنفسك
 
 
 # Goals
@@ -34,4 +34,4 @@ We inspire from other AI grassroots such as [Masakhane](https://github.com/masak
 Our community members have helped in multiple initiatives and/or projects that are listed below:
 * CV4Africa Workshop in DLIndaba next year. We are working on organizing a computer vision for Africa workshop with two tracks of submissions (Datasets - Methods). Where the first track focuses on datasets for Africans on applications that are relevant to us, while the second track is about the algorithms, architectures and computer vision approaches that serve our African communities. We are also working with Zindi to host a challenge as part of the workshop.
 * Computer Vision for Africa, A Survey. We are currently working together on building a survey for both datasets and methods that are for Africans and by Africans. Part of the survey we aim as well to list the applications and datasets that we currently have a need for but are under-explored by the current CV research.
-* Weekly Reading Groups on Sundays 3:00 pm UTC. We have studied fundamentals of meta-learning, fewshot learning and different works in the area we also covered the fundamentals of vision transformers and had one hands-on practical on it. Next we are focusing on medical image processing application and a continuation of studying recent vision transformers research.
+* Weekly Reading Groups on Sundays 3:00 pm UTC. We have studied fundamentals of meta-learning, fewshot learning, and vision transformers. Additionally, we had one hands-on practical on ViTs. Next we are focusing on medical image processing application and a continuation of studying recent vision transformers research and their intersection with medical image processing.
