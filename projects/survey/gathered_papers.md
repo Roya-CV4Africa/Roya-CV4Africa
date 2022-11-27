@@ -20,7 +20,7 @@ Work in Progress
 Work in Progress
 
 ## Medical Image Processing
-###AI Ethics/Fairness:
+### AI Ethics/Fairness:
 * https://www.nature.com/articles/s41591-021-01595-0
 * https://www.sciencedirect.com/science/article/pii/S2589750022000632
 * https://www.nature.com/articles/s41467-022-32186-3
@@ -51,7 +51,6 @@ Work in Progress
 * https://www.nature.com/articles/srep04740
 
 ## Precision Agriculture:
-* Motive: Living in extreme poverty
 * https://link.springer.com/article/10.1007/s00146-021-01377-9
 * https://link.springer.com/article/10.1023/B:PRAG.0000040806.39604.aa
 * https://www.frontiersin.org/articles/10.3389/frai.2022.868926/pdf
@@ -86,7 +85,7 @@ Work in Progress
 ## Wildlife Monitoring
 
 # Researchers
-## Medical Image Processing Africa Researchers
+## Medical Image Processing African Researchers
 
 * https://scholar.google.ca/citations?user=CPuApzoAAAAJ&hl=en&oi=ao
 * https://scholar.google.ca/citations?user=4BXvC94AAAAJ&hl=en&oi=ao
