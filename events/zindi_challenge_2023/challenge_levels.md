@@ -7,4 +7,4 @@ We are organizing a challenge on wildlife monitoring. Coming Soon ...
 * Animal Detection
 
 # Expert Level
-* Animal Video Detection
+* TBD.
