@@ -6,6 +6,8 @@
 Ro'ya is an Arabic word that means vision to indicate the focus of our community on computer vision datasets, methods and applications that impact our African communities. This github repository collects all the resources that we are building as part of this community including: project codes, handson practicals and tutorials, presentations, links to recorded talks and reading group sessions. If you are interested in becoming a member please join the [slack](
 https://join.slack.com/t/cv4africa/shared_invite/zt-1i7usvl9j-q9KZrmj~1~_a6HA4yL0CWA) and fill in this membership [form](https://forms.gle/dEcJKGpDfHLgM49H6) to help us understand what are you interested to contribute to.
 
+*Thanks to Ismaila Lukman whoe helped create the image logo and to the calligraphy artist that helped create the Ro'ya word in the shape of Africa.*
+
 # Our Mission
 
 Ro’ya is an AI grassroots whose mission is to strengthen and spur Computer Vision research in Africa, for Africans, by Africans. 
