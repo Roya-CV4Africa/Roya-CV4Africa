@@ -38,6 +38,7 @@ Work in Progress
 * https://sajr.org.za/index.php/sajr/article/view/2280
 * https://www.mdpi.com/2504-4990/3/2/25
 * https://www.science.org/doi/10.1126/science.abc9528
+* https://www.sciencedirect.com/science/article/pii/S2210670720308076?casa_token=Z31gNVBnbmIAAAAA:PMDRLITwTUHyfLG4CZxXkpN43_qsu64YT43iHQaw2Jhm8t0DgALfsoza5N14-CPGKQlSecDJ9ZA#bib0365
 
 ### Malaria Research: 
 * https://www.ncbi.nlm.nih.gov/books/NBK3779/
