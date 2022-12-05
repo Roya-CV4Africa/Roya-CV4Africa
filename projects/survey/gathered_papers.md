@@ -36,6 +36,8 @@ Work in Progress
 ### COVID Research:
 * https://sajr.org.za/index.php/sajr/article/view/2262
 * https://sajr.org.za/index.php/sajr/article/view/2280
+* https://www.mdpi.com/2504-4990/3/2/25
+* https://www.science.org/doi/10.1126/science.abc9528
 
 ### Malaria Research: 
 * https://www.ncbi.nlm.nih.gov/books/NBK3779/
