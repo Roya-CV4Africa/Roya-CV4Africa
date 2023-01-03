@@ -7,6 +7,8 @@ Ro'ya is an Arabic word that means vision to indicate the focus of our community
 https://join.slack.com/t/cv4africa/shared_invite/zt-1i7usvl9j-q9KZrmj~1~_a6HA4yL0CWA) and fill in this membership [form](https://forms.gle/XZxVC6LQ1N5sMPnS7) to help us understand what are you interested to contribute to. You can also join our reading group:
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MmpkcmJvdXNoYnE2YTM1YWVhYjF1Z2lvam4gcm95YS5jdjRhZnJpY2FAbQ&amp;tmsrc=roya.cv4africa%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
+Check the full calender for the events/meetings [here](https://calendar.google.com/calendar/u/2?cid=cm95YS5jdjRhZnJpY2FAZ21haWwuY29t).
+
 *Thanks to Ismaila Lukman whoe helped create the image logo and to the calligraphy artist that helped create the Ro'ya word in the shape of Africa.*
 
 # Our Mission
